@@ -1,5 +1,5 @@
 <h1> Welcome to my Portfolio </h1>  
-<p> This is a display of sample websites that I made using HTML and CSS.</p>
+<p> This is a display of sample websites that I made using HTML, Bootstrap, Styled using CSS.</p>
 
 <h2>Projects</h2>
   <ul>
